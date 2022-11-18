@@ -1,4 +1,4 @@
-![alt text](https://github.com/waltodd/ecommerce_hakuna_kelele/blob/main/assets/ecomerce.png?raw=true)
+![alt text](https://github.com/waltodd/ecommerce_hakuna_kelele/blob/main/assets/wall.png?raw=true)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
